@@ -1,3 +1,1 @@
-# francosoc
-
-# Official website - UCL Francophone Society
+# Official Static Website for UCL Francophone Society
